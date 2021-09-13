@@ -1,0 +1,7 @@
+body {
+    background-color: #EFE7DD;
+    flex-direction: row;
+    text-align: center;
+    text-justify: auto;
+    font-family: "Monospace";
+}
