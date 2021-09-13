@@ -4,6 +4,8 @@ body {
     font-family: "Monospace";
 }
 
+
+
 a {
     display: inline-block;
     max-width: 100%;
@@ -12,6 +14,8 @@ a {
 header {
     text-align: center;
 }
+
+/* Títulos */
 
 h1 {
     font-size: 1.7em;
@@ -24,10 +28,16 @@ h2 {
 }
 
 h3 {
-    text-align: left;
+    text-align: center;
     font-size: 1.2em;
     text-align: center;
 }
+
+h4 {
+    text-align: center;
+}
+
+/* Linhas & Imagens */
 
 hr {
     background-color: red;
@@ -49,6 +59,8 @@ img {
     margin-right: auto;
     max-width: 60%;
 }
+
+/* Footer */
 
 body footer {
     margin-top: 20px;
