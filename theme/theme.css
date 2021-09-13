@@ -4,8 +4,6 @@ body {
     font-family: "Monospace";
 }
 
-
-
 a {
     display: inline-block;
     max-width: 100%;
@@ -64,4 +62,15 @@ img {
 
 body footer {
     margin-top: 20px;
+}
+
+/* Table */
+
+tr , th , td  {
+    border: 1px solid black;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
 }
