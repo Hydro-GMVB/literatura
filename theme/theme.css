@@ -2,9 +2,7 @@ body {
     background-color: #EFE7DD;
     flex-direction: row;
     text-align: center;
-    text-justify: auto;
     font-family: "Monospace";
-    margin-left: 5%;
 }
 
 h1 {
@@ -15,20 +13,32 @@ h2 {
     font-size: 1.3em;
 }
 
+hr {
+    background-color: red;
+    height: 1px;
+    border: none;
+}
+
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     border: black solid 5px;
-    max-width: 80%;    
+    max-width: 80%;
 }
 
-footer {
-    position: fixed;
-    bottom: 15px;
-    width: 100%;
+#o_quinze {
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-#raquel {
+body footer {
+    margin-top: 20px;
+}
+
+h3 {
     text-align: left;
+    font-size: 1.2em;
 }
