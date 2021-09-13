@@ -5,3 +5,13 @@ body {
     text-justify: auto;
     font-family: "Monospace";
 }
+
+footer {
+    position: fixed;
+    bottom: 15px;
+    width: 100%;
+}
+
+#raquel {
+    text-align: left;
+}
